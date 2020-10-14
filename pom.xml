@@ -9,18 +9,18 @@
 	</parent>
 
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>oncologyapp</artifactId>
+	<artifactId>ncdapp</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Oncologyapp</name>
-	<description>KenyaEMR oncology app</description>
+	<name>NCD APP</name>
+	<description>KenyaEMR NCD app</description>
 
 	<url>https://wiki.openmrs.org/x/FQ4z</url>
 
 	<scm>
-		<connection>scm:git:git@github.com:openmrs/openmrs-module-patientqueuapp.git</connection>
-		<developerConnection>scm:git:git@github.com:openmrs/openmrs-module-patientqueuapp.git</developerConnection>
-		<url>https://github.com/openmrs/openmrs-module-patientqueuapp/</url>
+		<connection>scm:git:https://github.com/uonafya/ncds.git</connection>
+		<developerConnection>scm:git:https://github.com/uonafya/ncds.git</developerConnection>
+		<url>https://github.com/uonafya/ncds.git</url>
 		<tag>HEAD</tag>
 	</scm>
 

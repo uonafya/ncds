@@ -3,14 +3,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>oncologyapp</artifactId>
+		<artifactId>ncdapp</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>oncologyapp-omod</artifactId>
+	<artifactId>ncdapp-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>Oncologyapp OMOD</name>
-	<description>Omod Cancer patients</description>
+	<name>NCD app OMOD</name>
+	<description>Omod NCD patients</description>
 
 	<dependencies>
 		<dependency>
