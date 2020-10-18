@@ -8,7 +8,7 @@ import org.apache.commons.logging.LogFactory;
 /**
  * This class contains the logic that is run every time this module is either started or shutdown
  */
-public class NcdappActivator extends BaseModuleActivator {
+public class NcdAppActivator extends BaseModuleActivator {
 	
 	private Log log = LogFactory.getLog(this.getClass());
 	

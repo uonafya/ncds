@@ -9,7 +9,7 @@
 
 	<artifactId>ncdapp-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>NCD app OMOD</name>
+	<name>ncdapp OMOD</name>
 	<description>Omod NCD patients</description>
 
 	<dependencies>

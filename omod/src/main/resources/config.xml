@@ -9,10 +9,9 @@
 	<package>org.openmrs.module.ncdapp</package>
 	<author>HealthIT</author>
 	<description>
-		KenyaEMR NCD app
+		KenyaEMR NCD application
 	</description>
-
-	<activator>org.openmrs.module.ncdapp.NcdappActivator</activator>
+	<activator>org.openmrs.module.ncdapp.NcdAppActivator</activator>
 
 	<!-- <updateURL>https://modules.openmrs.org/modules/download/@MODULE_ID@/update.rdf</updateURL> -->
 	<!-- /Base Module Properties -->

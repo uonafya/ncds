@@ -15,7 +15,7 @@ import org.openmrs.ui.framework.UiUtils;
 import org.openmrs.ui.framework.page.PageModel;
 
 @AppPage(OncologyappConstants.APP_ONCOLOGY)
-public class OncologySummaryPageController {
+public class NcdappSummaryPageController {
 	
 	public void controller(UiUtils ui, PageModel model) {
 		

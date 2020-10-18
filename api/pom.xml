@@ -9,7 +9,7 @@
 
 	<artifactId>ncdapp-api</artifactId>
 	<packaging>jar</packaging>
-	<name>NCD app API</name>
+	<name>Nncdapp API</name>
 	<description>API project for NCD app</description>
 	<dependencies>
 		<!-- Begin OpenMRS modules -->
